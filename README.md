@@ -48,6 +48,9 @@ How is physical activity level related to sleep duration?
 
 - Pearson correlation hypothesis test
 
+## Quarto Document
+[View Report](https://lillyjones-17.github.io/Sleep-Health-and-Lifestyle-Analysis/)
+
 ## Project Files
 Sleep Health and Lifestyle Analysis.R - R code
 
