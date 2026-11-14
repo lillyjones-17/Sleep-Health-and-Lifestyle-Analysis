@@ -53,7 +53,7 @@ Sleep Health and Lifestyle Analysis.R - R code
 
 Sleep_health_and_lifestyle_dataset.csv - Kaggle Dataset
 
-Sleep-Health-and-Lifestyle.html - Quarto document including R code, statistical tests, and data visualizations.
+index.html - Quarto document including R code, statistical tests, and data visualizations.
 
 ## Author
 Lilly Jones
